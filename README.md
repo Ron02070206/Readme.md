@@ -1,5 +1,5 @@
-# Readme.md
+## Readme.md
 
-Leírás:
+# Leírás:
 
 Ebben a projektben megtanulhatsz pár fontos tánclépést!
